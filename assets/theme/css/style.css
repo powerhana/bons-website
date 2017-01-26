@@ -1972,7 +1972,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   content: "";
   width: 30px;
   height: 3px;
-  background-color: #fff;
+  background-color: #c12628;
   position: absolute;
   top: 8px;
   left: 0; }
@@ -1980,7 +1980,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   content: "";
   width: 30px;
   height: 3px;
-  background-color: #fff;
+  background-color: #c12628;
   position: absolute;
   top: -8px;
   left: 0; }

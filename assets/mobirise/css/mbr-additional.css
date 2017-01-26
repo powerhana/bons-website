@@ -416,6 +416,10 @@ h6,
 .hamburger-icon .hamburger-om{
   background-color: #c12628 !important;
 }
+.hamburger-om::before .hamburger-om::after{
+  background-color:  #c12628 !important;
+}
+
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
