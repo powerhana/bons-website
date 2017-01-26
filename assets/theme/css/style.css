@@ -1912,7 +1912,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 @media (min-width: 768px) {
   .mbr-left-padding-md-up {
-    padding-left: 60px; } }
+    padding-left: 60px !important; } }
 
 .mbr-valign-top {
   vertical-align: top; }
@@ -2131,7 +2131,6 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
   text-align: center; }
   .image-size .mbr-figure {
     padding-top: 3px; }
-
 @media (max-width: 768px) {
   .image-size {
     width: 100% !important; } }

@@ -490,6 +490,19 @@ h6,
 #slider3-f FONT {
   color: #ffffff;
 }
+#slider3-g H2 {
+  color: #ffffff;
+  text-align: center;
+}
+#slider3-g P {
+  text-align: center;
+}
+#slider3-g SPAN {
+  text-align: left;
+}
+#slider3-g FONT {
+  color: #ffffff;
+}
 #features3-1s FONT {
   color: #7c706b;
   font-family: 'Open Sans', sans-serif;
