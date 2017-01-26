@@ -473,14 +473,14 @@
     }
     });
 
-    //Fix menu for Mobile Phones 
-    
+    //Fix menu for Mobile Phones
+
     var agentIndex = function(name) {
         return this.navigator.userAgent.indexOf(name);
     };
     var isMobile = (agentIndex('Mobile') != -1 || ((agentIndex('Android') != -1) && (agentIndex('Browser') != -1)));
       if(isMobile){
-        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#fff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#c12628', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
         $('.mbr-arrow img').css({'top':'20px', 'right':'13px'});
     }
 

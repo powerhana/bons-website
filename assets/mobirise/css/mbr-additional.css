@@ -413,6 +413,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c02827;
 }
+.hamburger-icon .hamburger-om{
+  background-color: #c12628 !important;
+}
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
@@ -423,7 +426,7 @@ h6,
   color: #ffffff;
 }
 #ext_menu-q .navbar-toggler {
-  color: #565a5c;
+  color: #c12628;
 }
 #ext_menu-q .close-icon::before,
 #ext_menu-q .close-icon::after {
